@@ -16,6 +16,11 @@ Let's find latent representations for the face images corresponding to different
 All code in ![talking_head.ipynb](talking_head.ipynb). You only need to put your source video in `./input` directory
 
 # Results
-Output video 
+Images generated from found latent represenations looks pretty similar to original images:
+
+![](https://i.ibb.co/sQMLS2x/comarison.png)
+
+
+### Output video:
 
 [![Watch output video](https://i.ibb.co/3cpd9BK/image.png)](https://www.youtube.com/watch?v=73aUnd0na04)
